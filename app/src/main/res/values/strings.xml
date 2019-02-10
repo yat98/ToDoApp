@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="finish_them">Finish them Quickly Today</string>
+    <string name="no_more_to_do">No More To Do</string>
+    <string name="add_title">Add Title</string>
+    <string name="what_you_do">What You Do?</string>
+    <string name="when_will">When Will?</string>
+    <string name="description">Description</string>
+    <string name="how_to">How To?</string>
+    <string name="update_your_note">Update Your Note</string>
+</resources>
